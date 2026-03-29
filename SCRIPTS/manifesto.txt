@@ -1,0 +1,6 @@
+----- Open Source Manifesto -----
+Date: 29 March 2026
+
+I believe open source stands for equality.
+Tools like google empower developers worldwide.
+I aim to build kingdom and share it freely with others.
